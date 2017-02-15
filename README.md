@@ -28,3 +28,8 @@ Keras Exercises are from http://machinelearningmastery.com/category/deep-learnin
  * [notebook-13](13_keras_dropout_regularization.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/13_keras_dropout_regularization.html))
 * [Using Learning Rate Schedules for Deep Learning Models in Python with Keras](http://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/)
  * [notebook-14](14_keras_learning_rate.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/14_keras_learning_rate.html))
+* [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+ * [notebook-15](15_keras_mnist_baseline.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/15_keras_mnist_baseline.html))
+ * [notebook-16](16_keras_mnist_cnn.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/16_keras_mnist_cnn.html))
+* [Image Augmentation for Deep Learning With Keras](http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
+ * [notebook-17](17_keras_image_augmentation.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/17_keras_image_augmentation.html))
