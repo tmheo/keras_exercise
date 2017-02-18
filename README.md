@@ -35,3 +35,5 @@ Keras Exercises are from http://machinelearningmastery.com/category/deep-learnin
  * [notebook-17](17_keras_image_augmentation.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/17_keras_image_augmentation.html))
 * [Object Recognition with Convolutional Neural Networks in the Keras Deep Learning Library](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
  * [notebook-18](18_keras_object_recognition_cnn.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/18_keras_object_recognition_cnn.html))
+* [Predict Sentiment From Movie Reviews Using Deep Learning](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
+ * [notebook-19](19_keras_predict_sentiment_movie_review.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/19_keras_predict_sentiment_movie_review.html))
