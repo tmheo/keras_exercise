@@ -37,3 +37,5 @@ Keras Exercises are from http://machinelearningmastery.com/category/deep-learnin
  * [notebook-18](18_keras_object_recognition_cnn.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/18_keras_object_recognition_cnn.html))
 * [Predict Sentiment From Movie Reviews Using Deep Learning](http://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
  * [notebook-19](19_keras_predict_sentiment_movie_review.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/19_keras_predict_sentiment_movie_review.html))
+* [Time Series Prediction With Deep Learning in Keras](http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
+ * [notebook-20](20_keras_time_series_prediction.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/20_keras_time_series_prediction.html))
