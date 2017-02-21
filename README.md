@@ -47,3 +47,5 @@ Keras Exercises are from http://machinelearningmastery.com/category/deep-learnin
  * [notebook-23](23_keras_understanding_stateful_lstm.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/23_keras_understanding_stateful_lstm.html))
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
  * [notebook-24](24_keras_text_generation_lstm.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/24_keras_text_generation_lstm.html))
+* [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+ * [notebook-25](25_keras_grid_search_hyper_parameter.ipynb)([html](http://htmlpreview.github.com/?https://github.com/tmheo/keras_exercise/blob/master/25_keras_grid_search_hyper_parameter.html))
