@@ -38,3 +38,7 @@ gradlew*
 
 # Mac
 .DS_Store
+
+# Data
+*.zip
+notebook/ml-100k/
